@@ -14,7 +14,7 @@ A tool to automatically check and snipe Discord vanity URLs.
 ---
 
 ## ✅ Features | المميزات
-
+![image](https://github.com/user-attachments/assets/a228da76-32f9-431c-9765-a82f543d1ec8)
 - 🔗 Auto vanity URL Checker | فحص تلقائي لاختصارات ديسكورد.
 - 🚀 Super fast with multithreading | سرعة عالية مع دعم تعدد الخيوط.
 - 🔔 Instant webhook notifications | تنبيهات مباشرة عبر Webhook.
@@ -76,3 +76,4 @@ For help or suggestions:
 📨 ديسكورد: [https://discord.gg/sjn](https://discord.gg/sjn)
 
 ---
+
